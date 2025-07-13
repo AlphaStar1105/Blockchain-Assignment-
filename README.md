@@ -1,4 +1,4 @@
-# Blockchain-Assignment-By Aditya DP-22N203
+# Blockchain Assignment-By Aditya DP (22N203)
 Simple Blockchain Node
 This is a basic blockchain project using Python (Flask) for the backend and HTML for the frontend. It lets you:
 * Add transactions
